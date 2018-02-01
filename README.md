@@ -1,6 +1,5 @@
 Text Analytics 
 =================
-[bristoltech.net](http://http://bristoltech.net)
 
 INTRODUCTION
 ------------
@@ -22,5 +21,7 @@ along with this program. If not, see [www.gnu.org/licenses/][gpl].
 CONTACT
 -------
 If you've got any questions get in touch
+
 Web: http://bristoltech.net/about/
+
 Twitter: @johnstone_stu
